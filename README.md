@@ -5,15 +5,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Kamto Eddy</h1>
-<h3 align="center">Full Stack Developer from Cameroon</h3>
+<h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **A lot**
+- 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **kamtoeddytagne@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
